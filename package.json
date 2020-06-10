@@ -1,7 +1,6 @@
 {
   "name": "typescript-for-javascript-developers",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "dev": "ts-node-dev --respawn",
@@ -25,5 +24,6 @@
   },
   "dependencies": {
     "axios": "^0.19.2"
-  }
+  },
+  "description": ""
 }
